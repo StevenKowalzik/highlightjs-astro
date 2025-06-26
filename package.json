@@ -1,0 +1,22 @@
+{
+  "name": "highlightjs-astro",
+  "version": "0.0.1",
+  "author": "Steven Kowalzik",
+  "main": "dist/highlightjs-astro.js",
+  "module": "dist/highlightjs-astro.js",
+  "scripts": {
+    "build": " npm run clean && rollup --config",
+    "clean": "rm -rf dist && rm package-lock.json && mkdir dist"
+  },
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "rollup": "^4.44.1"
+  },
+  "repository": {
+    "url": "git+github.com:StevenKowalzik/highlightjs-astro.git"
+  },
+  "peerDependencies": {
+    "highlightjs": "*"
+  }
+}
