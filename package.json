@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-astro",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Steven Kowalzik",
   "main": "dist/highlightjs-astro.js",
   "module": "dist/highlightjs-astro.js",
