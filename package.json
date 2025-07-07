@@ -13,8 +13,11 @@
   "devDependencies": {
     "rollup": "^4.44.1"
   },
+  "homepage": "https://github.com/StevenKowalzik/highlightjs-astro",
+  "bugs": "https://github.com/StevenKowalzik/highlightjs-astro/issues",
   "repository": {
-    "url": "git+github.com:StevenKowalzik/highlightjs-astro.git"
+    "type": "git",
+    "url": "https://github.com/StevenKowalzik/highlightjs-astro"
   },
   "peerDependencies": {
     "highlightjs": "*"
